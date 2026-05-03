@@ -1,6 +1,9 @@
 ```
 sudo apt install ruby
-bash scope. sh
+gem install colorize
+gem install shellwords
+
+bash scope.sh
 ```
 
 
